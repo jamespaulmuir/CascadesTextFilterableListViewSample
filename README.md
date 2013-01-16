@@ -5,7 +5,8 @@ This is a project that demonstrates a way to filter a ListView with a Text input
 This code builds on the following knowledge base article about Filtered Data Model:
 [http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-a-Custom-DataModel-to-Filter-Data-for-a-ListView/ta-p/1752509](http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-a-Custom-DataModel-to-Filter-Data-for-a-ListView/ta-p/1752509)
 
-
+![listview](https://raw.github.com/jamespaulmuir/CascadesTextFilterableListViewSample/master/text-filterable-listview.png "Normal ListView")
+![listview-filtered](https://raw.github.com/jamespaulmuir/CascadesTextFilterableListViewSample/master/text-filterable-listview-filtered.png "Filtered")
 
 License:
 ======================
